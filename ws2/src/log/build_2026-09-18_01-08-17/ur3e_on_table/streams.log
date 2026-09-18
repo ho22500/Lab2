@@ -1,0 +1,19 @@
+[1.792s] Invoking command in '/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/ur3e_on_table': PYTHONPATH=/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/ur3e_on_table/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/install/ur3e_on_table/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/ur3e_on_table/build --no-deps symlink_data
+[2.102s] running develop
+[2.368s] running egg_info
+[2.368s] writing ur3e_on_table.egg-info/PKG-INFO
+[2.369s] writing dependency_links to ur3e_on_table.egg-info/dependency_links.txt
+[2.370s] writing entry points to ur3e_on_table.egg-info/entry_points.txt
+[2.370s] writing requirements to ur3e_on_table.egg-info/requires.txt
+[2.371s] writing top-level names to ur3e_on_table.egg-info/top_level.txt
+[2.378s] reading manifest file 'ur3e_on_table.egg-info/SOURCES.txt'
+[2.380s] writing manifest file 'ur3e_on_table.egg-info/SOURCES.txt'
+[2.381s] running build_ext
+[2.382s] Creating /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/install/ur3e_on_table/lib/python3.10/site-packages/ur3e-on-table.egg-link (link to .)
+[2.384s] Installing lissajous script to /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/install/ur3e_on_table/lib/ur3e_on_table
+[2.386s] Installing pick-and-place script to /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/install/ur3e_on_table/lib/ur3e_on_table
+[2.386s] Installing test script to /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/install/ur3e_on_table/lib/ur3e_on_table
+[2.387s] 
+[2.387s] Installed /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/ur3e_on_table
+[2.387s] running symlink_data
+[2.433s] Invoked command in '/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/ur3e_on_table' returned '0': PYTHONPATH=/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/ur3e_on_table/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/install/ur3e_on_table/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/ur3e_on_table/build --no-deps symlink_data
