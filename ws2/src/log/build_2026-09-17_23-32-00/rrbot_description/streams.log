@@ -1,0 +1,24 @@
+[1.094s] Invoking command in '/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/rrbot_description': PYTHONPATH=/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/rrbot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/install/rrbot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/rrbot_description/build --no-deps symlink_data
+[1.395s] running develop
+[1.623s] running egg_info
+[1.623s] writing rrbot_description.egg-info/PKG-INFO
+[1.624s] writing dependency_links to rrbot_description.egg-info/dependency_links.txt
+[1.624s] writing entry points to rrbot_description.egg-info/entry_points.txt
+[1.625s] writing requirements to rrbot_description.egg-info/requires.txt
+[1.625s] writing top-level names to rrbot_description.egg-info/top_level.txt
+[1.628s] reading manifest file 'rrbot_description.egg-info/SOURCES.txt'
+[1.630s] writing manifest file 'rrbot_description.egg-info/SOURCES.txt'
+[1.631s] running build_ext
+[1.631s] Creating /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/install/rrbot_description/lib/python3.10/site-packages/rrbot-description.egg-link (link to .)
+[1.633s] 
+[1.633s] Installed /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/rrbot_description
+[1.633s] running symlink_data
+[1.634s] creating /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/install/rrbot_description/share/rrbot_description/config
+[1.634s] creating /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/install/rrbot_description/share/rrbot_description/launch
+[1.635s] symbolically linking /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/rrbot_description/launch/view_rrbot.launch.py -> /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/install/rrbot_description/share/rrbot_description/launch
+[1.635s] creating /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/install/rrbot_description/share/rrbot_description/rviz
+[1.635s] creating /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/install/rrbot_description/share/rrbot_description/urdf
+[1.636s] symbolically linking /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/rrbot_description/urdf/materials.xacro -> /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/install/rrbot_description/share/rrbot_description/urdf
+[1.636s] symbolically linking /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/rrbot_description/urdf/rrbot_macro.xacro -> /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/install/rrbot_description/share/rrbot_description/urdf
+[1.636s] symbolically linking /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/rrbot_description/urdf/rrbot.urdf.xacro -> /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/install/rrbot_description/share/rrbot_description/urdf
+[1.659s] Invoked command in '/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/rrbot_description' returned '0': PYTHONPATH=/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/rrbot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/install/rrbot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/rrbot_description/build --no-deps symlink_data

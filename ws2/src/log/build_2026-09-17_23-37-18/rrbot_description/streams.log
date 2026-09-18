@@ -1,0 +1,16 @@
+[1.406s] Invoking command in '/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/rrbot_description': PYTHONPATH=/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/rrbot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/install/rrbot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/rrbot_description/build --no-deps symlink_data
+[1.719s] running develop
+[1.963s] running egg_info
+[1.963s] writing rrbot_description.egg-info/PKG-INFO
+[1.964s] writing dependency_links to rrbot_description.egg-info/dependency_links.txt
+[1.964s] writing entry points to rrbot_description.egg-info/entry_points.txt
+[1.965s] writing requirements to rrbot_description.egg-info/requires.txt
+[1.965s] writing top-level names to rrbot_description.egg-info/top_level.txt
+[1.968s] reading manifest file 'rrbot_description.egg-info/SOURCES.txt'
+[1.970s] writing manifest file 'rrbot_description.egg-info/SOURCES.txt'
+[1.971s] running build_ext
+[1.971s] Creating /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/install/rrbot_description/lib/python3.10/site-packages/rrbot-description.egg-link (link to .)
+[1.973s] 
+[1.973s] Installed /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/rrbot_description
+[1.974s] running symlink_data
+[2.001s] Invoked command in '/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/rrbot_description' returned '0': PYTHONPATH=/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/rrbot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/install/rrbot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/rrbot_description/build --no-deps symlink_data

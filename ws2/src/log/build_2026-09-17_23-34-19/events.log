@@ -1,0 +1,38 @@
+[0.000000] (-) TimerEvent: {}
+[0.000310] (rrbot_description) JobQueued: {'identifier': 'rrbot_description', 'dependencies': OrderedDict()}
+[0.000349] (rrbot_description) JobStarted: {'identifier': 'rrbot_description'}
+[0.099174] (-) TimerEvent: {}
+[0.199423] (-) TimerEvent: {}
+[0.299601] (-) TimerEvent: {}
+[0.399752] (-) TimerEvent: {}
+[0.499943] (-) TimerEvent: {}
+[0.600224] (-) TimerEvent: {}
+[0.700382] (-) TimerEvent: {}
+[0.800529] (-) TimerEvent: {}
+[0.900752] (-) TimerEvent: {}
+[1.000915] (-) TimerEvent: {}
+[1.097958] (rrbot_description) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'develop', '--editable', '--build-directory', '/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/rrbot_description/build', '--no-deps', 'symlink_data'], 'cwd': '/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/rrbot_description', 'env': OrderedDict([('MODULEPATH_PACKAGE', '/package/modulefiles/ecn'), ('PROFILEHOME', ''), ('LMOD_DIR', '/usr/share/lmod/lmod/libexec'), ('MAIL', '/var/spool/mail/ho225'), ('LANGUAGE', ''), ('USER', 'ho225'), ('LMOD_PACKAGE_PATH', '/etc/lmod'), ('LMOD_COLORIZE', 'yes'), ('SSH_AGENT_PID', '1090095'), ('XDG_SESSION_TYPE', 'x11'), ('LMOD_PKG', '/usr/share/lmod/lmod'), ('TLPROFILE', 'xfce'), ('KONSOLE_VERSION', '211203'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/opt/thinlinc/lib64:/opt/thinlinc/lib'), ('HOME', '/home/shay/a/ho225'), ('OLDPWD', '/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/rrbot_description'), ('D_DISABLE_RT_SCREEN_SCALE', '1'), ('DESKTOP_SESSION', 'xfce'), ('PANEL_GDK_CORE_DEVICE_EVENTS', '0'), ('ROS_PYTHON_VERSION', '3'), ('SHELL_SESSION_ID', 'b925ad69017f4746b85ab62aee59a7d8'), ('KONSOLE_DBUS_SESSION', '/Sessions/1'), ('LC_CTYPE', 'C.UTF-8'), ('PCSCTUN_SERVER', '127.0.0.1:5046'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/933263/bus'), ('COLORTERM', 'truecolor'), ('LMOD_sys', 'Linux'), ('KONSOLE_DBUS_WINDOW', '/Windows/1'), ('COLCON_PREFIX_PATH', '/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/install'), ('ROS_DISTRO', 'humble'), ('LOGNAME', 'ho225'), ('LMOD_AVAIL_STYLE', 'system:<grouped>'), ('WINDOWID', '62914567'), ('LMOD_VERSION', '6.6'), ('SUMO_HOME', '/usr/share/sumo'), ('PULSE_SERVER', '/var/opt/thinlinc/sessions/ho225/14/pulse/native 127.0.0.1:5045'), ('TLPREFIX', '/opt/thinlinc'), ('_', '/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('COLORFGBG', '15;0'), ('USERNAME', 'ho225'), ('TERM', 'xterm-256color'), ('XDG_SESSION_ID', '20480'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/opt/ros/humble/bin:/usr/NX/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/opt/bin:/usr/site/ece/bin:/opt/thinlinc/bin:/snap/bin:/home/shay/a/ho225/.dotnet/tools:.:/opt/thinlinc/sbin'), ('SESSION_MANAGER', 'local/eceprog1.ecn.purdue.edu:@/tmp/.ICE-unix/1090065,unix/eceprog1.ecn.purdue.edu:/tmp/.ICE-unix/1090065'), ('PULSE_RUNTIME_PATH', '/var/opt/thinlinc/sessions/ho225/14/pulse'), ('PCSCTUN_COOKIE', '/var/opt/thinlinc/sessions/ho225/14/pcsctun-cookie'), ('LMOD_PREPEND_BLOCK', 'normal'), ('LMOD_FULL_SETTARG_SUPPORT', 'no'), ('QT_SCALE_FACTOR_ROUNDING_POLICY', 'PassThrough'), ('XDG_MENU_PREFIX', 'xfce-'), ('XDG_RUNTIME_DIR', '/run/user/933263'), ('DISPLAY', ':14.0'), ('XDG_CURRENT_DESKTOP', 'XFCE'), ('DOTNET_BUNDLE_EXTRACT_BASE_DIR', '/home/shay/a/ho225/.cache/dotnet_bundle_extract'), ('XDG_SESSION_DESKTOP', 'xfce'), ('XAUTHORITY', '/var/opt/thinlinc/sessions/ho225/14/Xauthority'), ('SSH_AUTH_SOCK', '/tmp/ssh-XXXXXXBfYmJs/agent.1090094'), ('ROS_DOMAIN_ID', '27'), ('PULSE_COOKIE', '/var/opt/thinlinc/sessions/ho225/14/pulse-cookie'), ('AMENT_PREFIX_PATH', '/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/install/rrbot_description:/opt/ros/humble'), ('SHELL', '/bin/bash'), ('KRB5CCNAME', '/var/opt/thinlinc/sessions/ho225/14/krb5cc'), ('MODULEPATH_ROOT', '/usr/modulefiles'), ('MODULEPATH_LOCAL', '/etc/modulefiles'), ('ROS_WS', '/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/'), ('LMOD_CMD', '/usr/share/lmod/lmod/libexec/lmod'), ('KONSOLE_DBUS_SERVICE', ':1.771'), ('BASH_ENV', '/usr/share/lmod/lmod/init/bash'), ('PWD', '/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/rrbot_description'), ('TLSESSIONDATA', '/var/opt/thinlinc/sessions/ho225/14'), ('XDG_CONFIG_DIRS', '/etc/xdg'), ('TOWN', 'Springfield'), ('XDG_DATA_DIRS', '/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share'), ('PYTHONPATH', '/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/rrbot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/install/rrbot_description/lib/python3.10/site-packages:/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/rrbot_description:/home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/install/rrbot_description/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('LMOD_arch', 'x86_64'), ('COLCON', '1'), ('MANPATH', '/usr/share/lmod/lmod/share/man:::/opt/thinlinc/share/man'), ('MODULEPATH', '/etc/lmod/modules:/usr/share/lmod/lmod/modulefiles/:/etc/modulefiles/pkg:/package/modulefiles/ecn/common:/package/modulefiles/ecn/ubuntu'), ('MODULESHOME', '/usr/share/lmod/lmod'), ('LMOD_SETTARG_CMD', ':')]), 'shell': False}
+[1.102256] (-) TimerEvent: {}
+[1.202438] (-) TimerEvent: {}
+[1.302637] (-) TimerEvent: {}
+[1.400205] (rrbot_description) StdoutLine: {'line': b'running develop\n'}
+[1.402713] (-) TimerEvent: {}
+[1.502893] (-) TimerEvent: {}
+[1.603098] (-) TimerEvent: {}
+[1.627096] (rrbot_description) StdoutLine: {'line': b'running egg_info\n'}
+[1.627325] (rrbot_description) StdoutLine: {'line': b'writing rrbot_description.egg-info/PKG-INFO\n'}
+[1.628029] (rrbot_description) StdoutLine: {'line': b'writing dependency_links to rrbot_description.egg-info/dependency_links.txt\n'}
+[1.628480] (rrbot_description) StdoutLine: {'line': b'writing entry points to rrbot_description.egg-info/entry_points.txt\n'}
+[1.628926] (rrbot_description) StdoutLine: {'line': b'writing requirements to rrbot_description.egg-info/requires.txt\n'}
+[1.629333] (rrbot_description) StdoutLine: {'line': b'writing top-level names to rrbot_description.egg-info/top_level.txt\n'}
+[1.632769] (rrbot_description) StdoutLine: {'line': b"reading manifest file 'rrbot_description.egg-info/SOURCES.txt'\n"}
+[1.634174] (rrbot_description) StdoutLine: {'line': b"writing manifest file 'rrbot_description.egg-info/SOURCES.txt'\n"}
+[1.635639] (rrbot_description) StdoutLine: {'line': b'running build_ext\n'}
+[1.635797] (rrbot_description) StdoutLine: {'line': b'Creating /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/install/rrbot_description/lib/python3.10/site-packages/rrbot-description.egg-link (link to .)\n'}
+[1.637917] (rrbot_description) StdoutLine: {'line': b'\n'}
+[1.638024] (rrbot_description) StdoutLine: {'line': b'Installed /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/rrbot_description\n'}
+[1.638185] (rrbot_description) StdoutLine: {'line': b'running symlink_data\n'}
+[1.638470] (rrbot_description) StdoutLine: {'line': b'symbolically linking /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/build/rrbot_description/config/rrbot_dimensions.yaml -> /home/shay/a/ho225/ece569-fall2026/Lab2/ws2/src/install/rrbot_description/share/rrbot_description/config\n'}
+[1.661222] (rrbot_description) CommandEnded: {'returncode': 0}
+[1.681417] (rrbot_description) JobEnded: {'identifier': 'rrbot_description', 'rc': 0}
+[1.683182] (-) EventReactorShutdown: {}
